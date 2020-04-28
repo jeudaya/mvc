@@ -1,6 +1,7 @@
 {
     "name": "udaya/mvc",
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "udaya",

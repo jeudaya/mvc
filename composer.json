@@ -7,5 +7,6 @@
             "email": "udaya.kumar@fortunesoftit.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }

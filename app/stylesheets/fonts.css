@@ -1,0 +1,120 @@
+/* CSS Document */
+@font-face {
+    font-family: 'corporate_a_condensedregular';
+    src: url('../fonts/corporateacon-reg-webfont.eot');
+    src: url('../fonts/corporateacon-reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporateacon-reg-webfont.woff2') format('woff2'),
+		 url('../fonts/corporateacon-reg-webfont.woff') format('woff'),
+         url('../fonts/corporateacon-reg-webfont.ttf') format('truetype'),
+         url('../fonts/corporateacon-reg-webfont.svg#corporate_a_condensedregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'corpoademregular';
+    src: url('../fonts/corporatea-demi-webfont.eot');
+    src: url('../fonts/corporatea-demi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporatea-demi-webfont.woff2') format('woff2'),
+		 url('../fonts/corporatea-demi-webfont.woff') format('woff'),
+         url('../fonts/corporatea-demi-webfont.ttf') format('truetype'),
+         url('../fonts/corporatea-demi-webfont.svg#corpoademregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'corpoaregular';
+    src: url('../fonts/corporatea-regular-webfont.eot');
+    src: url('../fonts/corporatea-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporatea-regular-webfont.woff2') format('woff2'),
+		 url('../fonts/corporatea-regular-webfont.woff') format('woff'),
+         url('../fonts/corporatea-regular-webfont.ttf') format('truetype'),
+         url('../fonts/corporatea-regular-webfont.svg#corpoaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'corposbold';
+    src: url('../fonts/corporates-bold-webfont.eot');
+    src: url('../fonts/corporates-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporates-bold-webfont.woff2') format('woff2'),
+		 url('../fonts/corporates-bold-webfont.woff') format('woff'),
+         url('../fonts/corporates-bold-webfont.ttf') format('truetype'),
+         url('../fonts/corporates-bold-webfont.svg#corposbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'corposdemregular';
+    src: url('../fonts/corporates-demi-webfont.eot');
+    src: url('../fonts/corporates-demi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporates-demi-webfont.woff2') format('woff2'),
+		 url('../fonts/corporates-demi-webfont.woff') format('woff'),
+         url('../fonts/corporates-demi-webfont.ttf') format('truetype'),
+         url('../fonts/corporates-demi-webfont.svg#corposdemregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'corporate_sregular';
+    src: url('../fonts/corporates-reg-webfont.eot');
+    src: url('../fonts/corporates-reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/corporates-reg-webfont.woff2') format('woff2'),
+		 url('../fonts/corporates-reg-webfont.woff') format('woff'),
+         url('../fonts/corporates-reg-webfont.ttf') format('truetype'),
+         url('../fonts/corporates-reg-webfont.svg#corporate_sregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+/*@font-face {
+  font-family: 'corpoaligitalic';
+  src: url("fonts/corpali-webfont.eot");
+  src: url("fonts/corpali-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/corpali-webfont.woff") format("woff"), url("fonts/corpali-webfont.ttf") format("truetype"), url("fonts/corpali-webfont.svg#corpoaligitalic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'corporate_a_condensedBdIt';
+  src: url("fonts/corporateacon-bolita-webfont.eot");
+  src: url("fonts/corporateacon-bolita-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/corporateacon-bolita-webfont.woff") format("woff"), url("fonts/corporateacon-bolita-webfont.ttf") format("truetype"), url("fonts/corporateacon-bolita-webfont.svg#corporate_a_condensedBdIt") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'corporate_a_condensedRgIt';
+  src: url("fonts/corporateacon-regita-webfont.eot");
+  src: url("fonts/corporateacon-regita-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/corporateacon-regita-webfont.woff") format("woff"), url("fonts/corporateacon-regita-webfont.ttf") format("truetype"), url("fonts/corporateacon-regita-webfont.svg#corporate_a_condensedRgIt") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'corposligregular';
+  src: url("fonts/corpsl-webfont.eot");
+  src: url("fonts/corpsl-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/corpsl-webfont.woff") format("woff"), url("fonts/corpsl-webfont.ttf") format("truetype"), url("fonts/corpsl-webfont.svg#corposligregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }*/
+  
+body
+{
+	font-family: 'corporate_a_condensedregular','corpoademregular','corpoaregular','corposbold','corposdemregular','corporate_sregular' !important;
+}
+
+input, textarea
+{
+	font-family: 'corporate_sregular'!important;
+	font-size: 14px!important;
+}

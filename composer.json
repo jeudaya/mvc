@@ -1,0 +1,11 @@
+{
+    "name": "udaya/mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "udaya",
+            "email": "udaya.kumar@fortunesoftit.com"
+        }
+    ],
+    "require": {}
+}
